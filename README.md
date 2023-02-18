@@ -1,4 +1,5 @@
 # Plotting Sine and Cosine Functions in Android Studio with MPAndroidChart
+<img width="823" alt="image" src="https://user-images.githubusercontent.com/30737946/219880090-26df1ab2-8d1f-4bab-9466-5ba112eb4036.png">
 
 This is an Android Studio project written in Kotlin that demonstrates how to plot the sine and cosine functions using MPAndroidChart library. The project allows you to plot the sine and cosine functions with different colors on a graph.
 
@@ -37,3 +38,4 @@ MPAndroidChart library: https://github.com/PhilJay/MPAndroidChart
 ### License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
